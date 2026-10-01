@@ -2,7 +2,7 @@
 
 [actions]: https://github.com/hanami/hanami-minitest/actions
 [chat]: https://discord.gg/naQApPAsZB
-[forum]: https://discourse.hanamirb.org
+[forum]: https://discourse.hanakai.org
 [rubygem]: https://rubygems.org/gems/hanami-minitest
 
 # hanami-minitest [![Gem Version](https://badge.fury.io/rb/hanami-minitest.svg)][rubygem] [![CI Status](https://github.com/hanami/hanami-minitest/workflows/CI/badge.svg)][actions]
